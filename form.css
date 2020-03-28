@@ -1,14 +1,26 @@
-div{background-color: rgb(165, 195, 250)}
+body{background-image:url(background.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    padding: 1rem;
+    margin-bottom: 0px;
+    margin-right: 5px;
+    color: white;
+    font-size: 14pt;
+}
 h1{font-family: 'Times New Roman', Times, serif;}
-body{margin-left: 2pt;}
-font-size: 14pt;}
-form{margin-bottom: }
+input,textarea{
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid blue;
+    border-radius: 5px;
+    
+}
 footer{
     margin-bottom: 0px;
-    background-color: cornflowerblue;
     text-align: center;
     bottom: 0px;
     width: 100%;
 }
+    
     
     
